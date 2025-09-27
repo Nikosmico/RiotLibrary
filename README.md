@@ -5,31 +5,41 @@ A decentralized, community-curated archive of essential knowledge—freely acces
 
 ## 🔒 Cybersecurity & Digital Privacy
  
-- **The Zero-Trust Protocol** by Maya Cryptowire → [View Book](https://library.riotnation.click/books/zero-trust-protocol)  
-- **Ghost in the Machine: Anonymous Networking** by Phantom Byte → [View Book](https://library.riotnation.click/books/ghost-machine)  
-- **Encryption for the People** by Cypher Locke → [View Book](https://library.riotnation.click/books/encryption-people)  
-- **Beyond Firewalls: Community Security** by Tara Firewall → [View Book](https://library.riotnation.click/books/beyond-firewalls)
+- Cybersecurity in Context → [![Ver PDF](https://img.shields.io/badge/Descargar_PDF-Google_Drive-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/uc?export=download&id=1EM4T8qMCfyjmD0rQd1US3AQJ5zTq0EJo)
+- Computer Hacking Beginners Guide → [![Ver PDF](https://img.shields.io/badge/Descargar_PDF-Google_Drive-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/uc?export=download&id=1HQboYqC0Qu3N38t3u5gCzwtN7lpT_uBG)
+- CompTIA PentestCert Exam Guide → [![Ver PDF](https://img.shields.io/badge/Descargar_PDF-Google_Drive-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/uc?export=download&id=1Lv-dqelchvb9SYrvuKg8zuE4FSyxKe1f)
+- Bug Bounty Bootcamp → [![Ver PDF](https://img.shields.io/badge/Descargar_PDF-Google_Drive-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/uc?export=download&id=1f_N8uUWdZ50pQ3zSGj8YQw_7NbGgSi8P)
+- Bug Bounty Bootcamp 2 → [![Ver PDF](https://img.shields.io/badge/Descargar_PDF-Google_Drive-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/uc?export=download&id=1hjRRASplcojx5zYI3SEostR4YE1Dobe7)
+- 31 Days Before Your CCNA Exam → [![Ver PDF](https://img.shields.io/badge/Descargar_PDF-Google_Drive-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/uc?export=download&id=1QVcMYRjDGUeEXHPCm1kW9ODmDMHRYYIX)
+- Pass the CCNA exam 200-301 → [![Ver PDF](https://img.shields.io/badge/Descargar_PDF-Google_Drive-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/uc?export=download&id=1nzy5W7HdQMeC44BjUn3h2mY65awsdD-z)
+- CCNP and CCIE Security Core SCOR 350-701 Official Cert Guide → [![Ver PDF](https://img.shields.io/badge/Descargar_PDF-Google_Drive-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/uc?export=download&id=10XiDILcIO9m_7vWIxCb1uOCxewmrHrVE)
+- IT Essentials v6 Companion Guide → [![Ver PDF](https://img.shields.io/badge/Descargar_PDF-Google_Drive-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/uc?export=download&id=16VqYGt0vBfCY_sc06xnz7oWXqxlPUXMn)
+- Cisco Networking Academy CCNAv7 Enterprise Networking → [![Ver PDF](https://img.shields.io/badge/Descargar_PDF-Google_Drive-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/uc?export=download&id=1cKJC_yyLjGhUo7uBzaChGQfu6oXZW7J6)
+- CCNP and CCIE Security Core SCOR 350-701 Official Cert Guide → [![Ver PDF](https://img.shields.io/badge/Descargar_PDF-Google_Drive-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/uc?export=download&id=1fKctK65SpKxLsK6a03ljCUL-KQfJqUWV)
+- CCNP Collaboration Call Control and Mobility CLACCM 300-815 Official Cert Guide → [![Ver PDF](https://img.shields.io/badge/Descargar_PDF-Google_Drive-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/uc?export=download&id=13YYrP-C3K9D1vZyv9D8HtOgItEUN2Ver)
+- The Cyber Intelligence Analyst’s Cookbook → [![Ver PDF](https://img.shields.io/badge/Descargar_PDF-Google_Drive-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/uc?export=download&id=1aSpkRmUKpx-XmMZDC_a8DKWQtj4zZfxO)
+- For Dummies Linux All In One → [![Ver PDF](https://img.shields.io/badge/Descargar_PDF-Google_Drive-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/uc?export=download&id=1DdNGIWBs8Xg7jVO8tvtp6beNZw9J8fe-)
+- Hacking APIs → [![Ver PDF](https://img.shields.io/badge/Descargar_PDF-Google_Drive-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/uc?export=download&id=1uA7qbBsH7Z5T9KZm5rXFqqlRkLMKNj6K)
+- Hacking Computer Hacking Security → [![Ver PDF](https://img.shields.io/badge/Descargar_PDF-Google_Drive-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/uc?export=download&id=1ZW1cpfWfxALpMS7PjcuLu308S5Xbhz3s)
+- Learn Penetration Testing → [![Ver PDF](https://img.shields.io/badge/Descargar_PDF-Google_Drive-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/uc?export=download&id=1FEe5LhQ0SLjDqD7HDFXGeNPJtBNSB5FZ)
+- Learning Kali Linux → [![Ver PDF](https://img.shields.io/badge/Descargar_PDF-Google_Drive-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/uc?export=download&id=19EELSWvcCcg9enJNGfoMc2pJvEAOrzyy)
+- Linux Essentials for Cybersecurity → [![Ver PDF](https://img.shields.io/badge/Descargar_PDF-Google_Drive-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/uc?export=download&id=1X8kI8EVcYWZQVjFwtR7a89zUAlm7fcx8)
+- Mastering Cyber Intelligence Gain comprehensive knowledge and skills → [![Ver PDF](https://img.shields.io/badge/Descargar_PDF-Google_Drive-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/uc?export=download&id=1O0S2Y_NJtBr987oFLMPqyRQa7Sq2kdeZ)
+- McGrawHill CCT CCNA routing and switching All in One Exam Guide → [![Ver PDF](https://img.shields.io/badge/Descargar_PDF-Google_Drive-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/uc?export=download&id=1FC7XNE-Pb-QInYljx1JYROrqrf_fjmoZ)
+- Resources for Searching and Analyzing Online Information → [![Ver PDF](https://img.shields.io/badge/Descargar_PDF-Google_Drive-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/uc?export=download&id=1uCptGgngxMm9ePvduRXuQXLgMLs7mQ6P)
+- The Ultimate Kali Linux → [![Ver PDF](https://img.shields.io/badge/Descargar_PDF-Google_Drive-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/uc?export=download&id=1Ij-WspXPMtpgsgCPEM_qOPGANF8suqac)
 
 ## Ⓐ Anarchism
  
-- **No Masters, No Markets** by Elena Voltair → [View Book](https://library.riotnation.click/books/no-masters-markets)  
-- **The Horizontal Society** by Marcus Freeman → [View Book](https://library.riotnation.click/books/horizontal-society)  
-- **Mutual Aid as Resistance** by Kaya Solidaria → [View Book](https://library.riotnation.click/books/mutual-aid-resistance)  
-- **Prefigurative Politics** by River Change → [View Book](https://library.riotnation.click/books/prefigurative-politics)
+- Coming Soon
 
 ## 🌐 Politics
 
-- **Algorithms of Power** by Dr. Ada Critical → [View Book](https://library.riotnation.click/books/algorithms-power)  
-- **The Digital Commons** by Julian Share → [View Book](https://library.riotnation.click/books/digital-commons)  
-- **Post-Capitalist Imagination** by Rosa Future → [View Book](https://library.riotnation.click/books/post-capitalist-imagination)  
-- **Networked Revolutions** by Zane Connector → [View Book](https://library.riotnation.click/books/networked-revolutions)
+- Coming Soon
 
 ## 📖 Other Texts  
 
-- **Free Culture Manifesto** by Aaron Swartz II → [View Book](https://library.riotnation.click/books/free-culture-manifesto)  
-- **The Librarian's Guide to Resistance** by Alexandria Archive → [View Book](https://library.riotnation.click/books/librarians-guide)  
-- **Decentralized Everything** by Blockchain Butterfly → [View Book](https://library.riotnation.click/books/decentralized-everything)  
-- **Tools for Conviviality 2.0** by Ivan Techillich → [View Book](https://library.riotnation.click/books/tools-conviviality)
+- Coming Soon
 
 ## 💡 En Español 
 
