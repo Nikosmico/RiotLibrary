@@ -1,6 +1,6 @@
-# Riot Library 📚
-
-*A decentralized, community-curated archive of essential knowledge—freely accessible, censorship-resistant, and built for collective liberation.*
+# Riot Library 📚 
+*(We constantly upload new material)
+A decentralized, community-curated archive of essential knowledge—freely accessible, censorship-resistant, and built for collective liberation.*
 
 
 ## 🔒 Cybersecurity & Digital Privacy
