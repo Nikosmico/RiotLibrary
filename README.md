@@ -33,10 +33,10 @@
 
 ## 💡 En Español 
 
-- **Free Culture Manifesto** by Aaron Swartz II → [View Book](https://library.riotnation.click/books/free-culture-manifesto)  
-- **The Librarian's Guide to Resistance** by Alexandria Archive → [View Book](https://library.riotnation.click/books/librarians-guide)  
-- **Decentralized Everything** by Blockchain Butterfly → [View Book](https://library.riotnation.click/books/decentralized-everything)  
-- **Tools for Conviviality 2.0** by Ivan Techillich → [View Book](https://library.riotnation.click/books/tools-conviviality)
+- **Aporofobia, el rechazo al pobre - Adela Cortina Orts → [View Book](https://library.riotnation.click/books/free-culture-manifesto)  
+- **Bushido - Inaz Nitobe → [View Book](https://library.riotnation.click/books/librarians-guide)  
+- **Butler - Monica Cano → [View Book](https://library.riotnation.click/books/decentralized-everything)  
+- **Capitalismo y pulsion de muerte - Byung Chul Han → [View Book](https://library.riotnation.click/books/tools-conviviality)
 
 ---
 
