@@ -1,4 +1,4 @@
-# RiotLibrary Collections 📚
+# Riot Library 📚
 
 *A decentralized, community-curated archive of essential knowledge—freely accessible, censorship-resistant, and built for collective liberation.*
 
