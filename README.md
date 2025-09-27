@@ -33,8 +33,8 @@
 
 ## 💡 En Español 
 
-- **Aporofobia, el rechazo al pobre - Adela Cortina Orts → [View Book](https://[library.riotnation.click/books/Aporofobiaelrechazoalpobre_AdelaCortinaOrts.pdf](https://github.com/Nikosmico/RiotLibrary/blob/main/books/Aporofobiaelrechazoalpobre%20_AdelaCortinaOrts.pdf))  
-- **Bushido - Inaz Nitobe → [View Book](https://library.riotnation.click/books/librarians-guide)  
+- **Aporofobia, el rechazo al pobre - Adela Cortina Orts → [View Book]([
+- **Bushido - Inaz Nitobe → [View Book]([https://library.riotnation.click/books/librarians-guide](https://github.com/Nikosmico/RiotLibrary/blob/a6a105f46e0fcb6d9c7172de3b72e2680837c6e3/books/Aporofobiaelrechazoalpobre%20_AdelaCortinaOrts.pdf))  
 - **Butler - Monica Cano → [View Book](https://library.riotnation.click/books/decentralized-everything)  
 - **Capitalismo y pulsion de muerte - Byung Chul Han → [View Book](https://library.riotnation.click/books/tools-conviviality)
 
