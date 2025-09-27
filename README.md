@@ -5,7 +5,7 @@ A decentralized, community-curated archive of essential knowledge—freely acces
 
 ## 🔒 Cybersecurity & Digital Privacy
  
-- Cybersecurity in Context → [![Ver PDF](https://img.shields.io/badge/Descargar_PDF-Google_Drive-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/uc?export=download&id=1EM4T8qMCfyjmD0rQd1US3AQJ5zTq0EJo)
+- Cybersecurity in Context → [![Ver PDF](https://img.shields.io/badge/Descargar_PDF)](https://drive.google.com/uc?export=download&id=1EM4T8qMCfyjmD0rQd1US3AQJ5zTq0EJo)
 - Computer Hacking Beginners Guide → [![Ver PDF](https://img.shields.io/badge/Descargar_PDF-Google_Drive-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/uc?export=download&id=1HQboYqC0Qu3N38t3u5gCzwtN7lpT_uBG)
 - CompTIA PentestCert Exam Guide → [![Ver PDF](https://img.shields.io/badge/Descargar_PDF-Google_Drive-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/uc?export=download&id=1Lv-dqelchvb9SYrvuKg8zuE4FSyxKe1f)
 - Bug Bounty Bootcamp → [![Ver PDF](https://img.shields.io/badge/Descargar_PDF-Google_Drive-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/uc?export=download&id=1f_N8uUWdZ50pQ3zSGj8YQw_7NbGgSi8P)
