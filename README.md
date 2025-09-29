@@ -4,7 +4,7 @@ A decentralized, community-curated archive of essential knowledge—freely acces
 
 ## Ⓐ Anarchism
  
-- Coming Soon
+- Coming Soon → [![Descargar PDF](https://img.shields.io/badge/Descargar_PDF-rojo?style=for-the-badge&logo=adobeacrobatreader)](https://drive.google.com/uc?export=download&id=1HF8Oa1FSA68kp-UIVVf5gxQzNzBrklDd)
 
 ## 🌐 Politics
 
