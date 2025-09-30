@@ -2,10 +2,6 @@
 A decentralized, community-curated archive of essential knowledge—freely accessible, censorship-resistant, and built for collective liberation.
 (We constantly upload new material)
 
-# Riot Library 📚 
-A decentralized, community-curated archive of essential knowledge—freely accessible, censorship-resistant, and built for collective liberation.
-(We constantly upload new material)
-
 ## 🚀 Quick Links
 
 - 🏴 [Anarchism](anarchism.md) - Core principles and theory of anarchist thought
